@@ -1,0 +1,14 @@
+what is provider.tf
+what is terraform state
+what is terraform import
+what is count in terraform
+what is import block in terraform
+terraform conditional statement
+tf.vars vs variable.tf
+#######################################
+aws vpc subnet peering, how you setup entire vpc using routetables
+#######################################
+list vs tuples
+protected and unprotected variables (private/public)
+break and continue
+#######################################
